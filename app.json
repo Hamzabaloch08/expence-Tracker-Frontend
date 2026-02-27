@@ -52,6 +52,9 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "owner": "hamzabaloch"
+    "owner": "hamzabaloch",
+    "updates": {
+      "url": "https://u.expo.dev/056ad4ce-afa9-4642-9e9e-fbebe3f233b2"
+    }
   }
 }
